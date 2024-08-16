@@ -1,23 +1,22 @@
-.top_container {
+body {
     background-color: #1F2937;
 }
 
-.footer {
+.header {
     display: flex;
     justify-content: space-between;
-    font-size: 24px;
+}
+
+.left_header {
     color: #F9FAF8;
+    font-size: 24px;
+    padding-left: 10%;
 }
 
-.logo {
-    display: flex;
-    padding-left: 12%;
-}
-
-.header_links {
-    display: flex;
+.right_header{ 
     color: #E5E7EB;
     font-size: 18px;
+    display: flex;
     padding-right: 15%;
-    gap: 15%;
+    gap: 20%;
 }
