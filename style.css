@@ -90,3 +90,13 @@ a:active {text-decoration: none; color: #E5E7EB;}
     width: 200px;
     height: 175ps;
 }
+
+.quote_text {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 15px;
+    color: #1F2937;
+    font-style: italic;
+}
