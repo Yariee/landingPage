@@ -64,3 +64,10 @@ a:active {text-decoration: none; color: #E5E7EB;}
     font-weight: bold;
     margin-top: 2%;
 }
+
+.content_photo {
+    display: flex;
+    margin-left: 5%;
+    width: 500px;
+    height: 500px;
+}
