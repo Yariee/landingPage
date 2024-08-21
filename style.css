@@ -27,3 +27,37 @@ a:link {text-decoration: none;}
 a:visited {text-decoration: none; color: #E5E7EB;}
 a:hover {text-decoration: none; color: #E5E7EB;}
 a:active {text-decoration: none; color: #E5E7EB;}
+
+.content_with_photo {
+    display: flex;
+    padding: 10%;
+}
+
+.content_text {
+    display: flex;
+    flex-direction: column;
+}
+
+.content_text h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.content_text p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0;
+    /* Opacity lets us dim the text a bit */
+    opacity: 0.8;
+}
+
+.content_text button {
+    display: block;
+    width: 150px;
+    background-color: #3882F6;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
