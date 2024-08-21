@@ -71,3 +71,22 @@ a:active {text-decoration: none; color: #E5E7EB;}
     width: 500px;
     height: 450px;
 }
+
+.random_info {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.random_info_tabs {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.random_info_tabs img {
+    width: 200px;
+    height: 175ps;
+}
