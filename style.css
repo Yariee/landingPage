@@ -55,9 +55,12 @@ a:active {text-decoration: none; color: #E5E7EB;}
 
 .content_text button {
     display: block;
-    width: 150px;
+    width: 125px;
     background-color: #3882F6;
     border: 0;
     padding: 10px;
     border-radius: 10px;
+    color: #F9FAF8;
+    font-weight: bold;
+    margin-top: 2%;
 }
