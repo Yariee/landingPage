@@ -100,3 +100,10 @@ a:active {text-decoration: none; color: #E5E7EB;}
     color: #1F2937;
     font-style: italic;
 }
+
+b {
+    text-align: right;
+    padding-bottom: 20px;
+    padding-right: 200px;
+    font-size: 20px;
+}
